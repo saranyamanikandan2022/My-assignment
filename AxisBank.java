@@ -8,7 +8,7 @@ public static void main(String[] args) {
     bank.saving();
     bank.fixed();
     bank.deposit();
-    System.out.println(AxisBank.equal(deposit));
+    System.out.println(AxisBank.equals(deposit));
 }
 
 	}
